@@ -9,7 +9,7 @@
 - `SHA256SUMS.txt` に `CrossPoint.zip` のSHA256があります。
 
 ## Docs
-- ユーザー向け: `README.md` / `README_EN.md`
+- ユーザー向け: `README.md`（日本語） / `README_EN.md`（English）
 - AIエージェント向け仕様: `docs/README_AI.md` / `docs/README_AI_EN.md`
 
 ## License

@@ -1,5 +1,7 @@
 ﻿# CrossPoint
 
+- 日本語: `README.md`
+
 **CrossPoint** helps you share “this area / around here” with an AI by turning a screen region into a precise **coordinate snapshot (JSON)**.
 
 This ZIP is the **EXE distribution** (no Python install required).
