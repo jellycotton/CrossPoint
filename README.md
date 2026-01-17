@@ -114,6 +114,14 @@ DPI/スケーリング起因の座標ズレ問題を調査・解決するため�
 
 ---
 
+## Pro版（Booth）
+Pro版（有料）の販売ページはこちら：
+- Booth: https://jellycotton.booth.pm/items/7886153
+
+※ このGitHub（無料版）には Pro版は同梱されません。
+
+---
+
 ## ライセンス / 利用条件
 ### 開発・著作
 じぇりー (Jelly)

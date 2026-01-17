@@ -118,6 +118,12 @@ Advanced:
 
 ---
 
+## Pro (Booth)
+Pro (paid) is available here:
+- Booth: https://jellycotton.booth.pm/items/7886153
+
+Note: This GitHub (Free) does not include Pro.
+
 ## License / Usage Terms
 ### Development / Copyright
 Jelly
