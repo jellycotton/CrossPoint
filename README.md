@@ -1,6 +1,6 @@
 ﻿# CrossPoint
 
-- English version: `README_EN.md`
+- English version: [README_EN.md](README_EN.md)
 
 **CrossPoint** は、AIに「このへん」「このくらいのサイズ」といった画面領域を **座標スナップショット（JSON）** として正確に共有するためのツールです。
 
