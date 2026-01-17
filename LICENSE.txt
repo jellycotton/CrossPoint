@@ -1,0 +1,11 @@
+﻿# 利用条件 / License Terms
+
+本ソフトウェアは個人利用を目的として提供されています。
+本ソフトウェアの再配布および商用利用は許可していません。
+その他の利用については作者にお問い合わせください。
+
+---
+
+This software is provided for personal use.
+Redistribution and commercial use are not permitted.
+For any other use, please contact the author.

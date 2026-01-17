@@ -1,0 +1,10 @@
+# Public release repo: keep it minimal
+
+# OS cruft
+Thumbs.db
+Desktop.ini
+
+# Build logs / temp
+*.log
+_tmp_*/
+_verify_*/
