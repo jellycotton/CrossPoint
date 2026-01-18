@@ -22,11 +22,15 @@
 1. ZIPを任意のフォルダに展開
 2. `CrossPoint.exe` を実行
 3. **Set Plate** → 画面を **ドラッグ** してPlate四角形を描画
+<img width="3837" height="2169" alt="スクリーンショット (311)" src="https://github.com/user-attachments/assets/31272527-353f-42a5-9be3-21a22e42c390" />
+<img width="3835" height="2169" alt="スクリーンショット (312)" src="https://github.com/user-attachments/assets/46796783-6988-4612-815e-75504a913417" />
+<img width="3836" height="2169" alt="スクリーンショット (314)" src="https://github.com/user-attachments/assets/a0f58337-2c2e-4e2a-8712-36d30369f331" />
 	- 作業中のダイアログなどに合わせて囲むと、クロスによる座標指示がしやすくなります。
 	- AIに「このサイズで作って」と指示するのにも使えます。
 	- 操作中はオーバーレイモード（画面が暗転）になります。右クリックまたは `Esc` で解除できます。
-4. **Move Cross** → クリック/ドラッグで Cross を配置
-5. **Copy State JSON** → JSONをコピーしてAIのチャットに貼り付け
+5. **Move Cross** → クリック/ドラッグで Cross を配置
+<img width="3835" height="2169" alt="スクリーンショット (315)" src="https://github.com/user-attachments/assets/79a95f3a-d257-458b-9d0f-4edf9ad8a6a3" />
+7. **Copy State JSON** → JSONをコピーしてAIのチャットに貼り付け
 
 ## ボタン機能一覧
 - **Set Plate**: Plate（基準枠）を作成します。
