@@ -22,6 +22,8 @@ The key is: **the numbers in the JSON are the single source of truth** (do not r
 1. Extract the ZIP to any folder
 2. Run `CrossPoint.exe`
 3. **Set Plate** → **drag** to draw the Plate rectangle.
+	- In the screenshots, the overlay opacity is set to 100%.
+	  In actual use, you can still see your desktop/apps through the overlay while you operate.
 	- You can place it over an in-progress dialog and match it exactly to make coordinate-based instructions easier.
 	- You can also use it to tell the AI “make it this size”.
 	- While editing Plate/Cross, CrossPoint enters **overlay mode** (the screen dims and other apps cannot be interacted with). Right-click or `Esc` to exit.
