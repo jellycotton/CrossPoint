@@ -21,7 +21,7 @@
 ## クイックスタート（起動 〜 JSONコピー）
 1. ZIPを任意のフォルダに展開
 2. `CrossPoint.exe` を実行
-3. **Set Plate** → 画面を **ドラッグ** してPlate四角形を描画
+3. **Set Plate** → 画面を **ドラッグ** してPlate四角形を描画（見やすさのためにツールの機能でオーバーレイの不透明度を100％にしています）
 <img width="3837" height="2169" alt="スクリーンショット (311)" src="https://github.com/user-attachments/assets/31272527-353f-42a5-9be3-21a22e42c390" />
 <img width="3835" height="2169" alt="スクリーンショット (312)" src="https://github.com/user-attachments/assets/46796783-6988-4612-815e-75504a913417" />
 <img width="3836" height="2169" alt="スクリーンショット (314)" src="https://github.com/user-attachments/assets/a0f58337-2c2e-4e2a-8712-36d30369f331" />
