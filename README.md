@@ -51,6 +51,7 @@
 - **Move Cross**: Cross移動モードにします。
 - **+ Center**: CrossをPlateの中心に戻します。
 - **Line thickness**: オーバーレイの線の太さを調整します（次回起動時も保持）。
+- **Line opacity**: オーバーレイの不透明度（画面の見えやすさ）を調整します（次回起動時も保持）。
 - **Copy State JSON**: 現在の状態（Plate + Cross）をJSONとしてコピーします。
 	- 実行環境の DPI/スケール情報（`env`）も任意で含まれます（例: `ui_scale=1.25`）。
 

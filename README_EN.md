@@ -37,6 +37,7 @@ The key is: **the numbers in the JSON are the single source of truth** (do not r
 - **Move Cross**: Switch to Cross move mode.
 - **+ Center**: Reset the Cross to the center of the Plate.
 - **Line thickness**: Adjust overlay line thickness (saved for next launch).
+- **Line opacity**: Adjust overlay opacity (how transparent the overlay is; saved for next launch).
 - **Copy State JSON**: Copy the current state (Plate + Cross) as JSON.
 	- Includes DPI/scaling metadata as an optional `env` block (e.g., `ui_scale=1.25`).
 
