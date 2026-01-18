@@ -21,6 +21,8 @@ The key is: **the numbers in the JSON are the single source of truth** (do not r
 ## Quick Start (Launch → Copy JSON)
 1. Extract the ZIP to any folder
 2. Run `CrossPoint.exe`
+	- On first run, Windows SmartScreen may appear. Click `More info` → `Run anyway`.
+	- If it is still blocked, right-click the EXE → `Properties` → check `Unblock`.
 3. **Set Plate** → **drag** to draw the Plate rectangle.
 	- In the screenshots, the overlay opacity is set to 100%.
 	  In actual use, you can still see your desktop/apps through the overlay while you operate.
