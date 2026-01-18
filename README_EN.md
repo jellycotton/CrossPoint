@@ -126,6 +126,8 @@ Advanced:
 Pro (paid) is available here:
 - Booth: https://jellycotton.booth.pm/items/7886153
 
+Pro can also display layout proposals received from an AI as JSON (e.g., window size, button positions) directly in CrossPoint, without implementing or running any code.
+
 Note: This GitHub (Free) does not include Pro.
 
 ## License / Usage Terms
