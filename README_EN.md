@@ -30,6 +30,15 @@ The key is: **the numbers in the JSON are the single source of truth** (do not r
 	- While editing Plate/Cross, CrossPoint enters **overlay mode** (the screen dims and other apps cannot be interacted with). Right-click or `Esc` to exit.
 4. **Move Cross** → click/drag to place the Cross
 5. **Copy State JSON** → paste it into your AI chat
+<img width="3834" height="2169" alt="gitスクリーンショット (345)" src="https://github.com/user-attachments/assets/715f172e-5066-4b61-befa-bcd2ac4698f3" />
+<img width="3837" height="2169" alt="gitスクリーンショット (346)" src="https://github.com/user-attachments/assets/0831b076-f1b8-46be-8dcb-587be4d65534" />
+<img width="3835" height="2169" alt="gitスクリーンショット (347)" src="https://github.com/user-attachments/assets/bfa5d6ef-9c68-4f8f-9e7f-dbcf15810861" />
+<img width="3836" height="2169" alt="gitスクリーンショット (348)" src="https://github.com/user-attachments/assets/72b81a9c-03d1-489d-bfcb-8062ec8cfd45" />
+<img width="3836" height="2169" alt="gitスクリーンショット (349)" src="https://github.com/user-attachments/assets/fbd7f2a2-1be4-4911-a64d-3e73a92bb5a4" />
+<img width="3835" height="2169" alt="gitスクリーンショット (350)" src="https://github.com/user-attachments/assets/c7e42384-0024-47fe-bf34-30d08b7c07ba" />
+<img width="3836" height="2169" alt="スクリーンショット (342)7" src="https://github.com/user-attachments/assets/8dd54063-c55a-4eb9-b5a1-397dd442bbeb" />
+<img width="3836" height="2169" alt="スクリーンショット (343)8" src="https://github.com/user-attachments/assets/c9b74cbc-cb4c-4a1e-9fee-7602ba8f096a" />
+<img width="3835" height="2169" alt="スクリーンショット (344)9" src="https://github.com/user-attachments/assets/0e70466a-553b-48eb-b017-c46617415f0d" />
 
 ## Button Quick Reference
 - **Set Plate**: Create the Plate (main rectangle).
