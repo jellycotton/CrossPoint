@@ -23,27 +23,20 @@
 2. `CrossPoint.exe` を実行
 	- 初回は「Windows によって PC が保護されました」（SmartScreen）が出ることがあります。`詳細情報` → `実行` を選んでください。
 3. **Set Plate** → 画面を **ドラッグ** してPlate四角形を描画
-	- スクリーンショットではオーバーレイの不透明度を100%にしています。
-	  実際の使用時は、オーバーレイ越しにPC画面（作業中のウィンドウ）が見える状態で操作できます。
 	- 作業中のダイアログなどに合わせて囲むと、クロスによる座標指示がしやすくなります。
 	- AIに「このサイズで作って」と指示するのにも使えます。
 	- 操作中はオーバーレイモード（画面が暗転）になります。右クリックまたは `Esc` で解除できます。
-	<details>
-	<summary>スクリーンショット（Set Plate）</summary>
-	<br/>
-	<img width="900" alt="スクリーンショット (311)" src="https://github.com/user-attachments/assets/31272527-353f-42a5-9be3-21a22e42c390" />
-	<br/>
-	<img width="900" alt="スクリーンショット (312)" src="https://github.com/user-attachments/assets/46796783-6988-4612-815e-75504a913417" />
-	<br/>
-	<img width="900" alt="スクリーンショット (314)" src="https://github.com/user-attachments/assets/a0f58337-2c2e-4e2a-8712-36d30369f331" />
-	</details>
 4. **Move Cross** → クリック/ドラッグで Cross を配置
-	<details>
-	<summary>スクリーンショット（Move Cross）</summary>
-	<br/>
-	<img width="900" alt="スクリーンショット (315)" src="https://github.com/user-attachments/assets/79a95f3a-d257-458b-9d0f-4edf9ad8a6a3" />
-	</details>
-5. **Copy State JSON** → JSONをコピーしてAIのチャットに貼り付け
+5.  **Copy State JSON** → JSONをコピーしてAIのチャットに貼り付け
+<img width="3834" height="2169" alt="gitスクリーンショット (345)" src="https://github.com/user-attachments/assets/6e782678-1c21-4246-b2f4-c32c56ccc2ab" />
+<img width="3837" height="2169" alt="gitスクリーンショット (346)" src="https://github.com/user-attachments/assets/eaf7d97e-7090-4a5d-b332-0c8501bbecf5" />
+<img width="3835" height="2169" alt="gitスクリーンショット (347)" src="https://github.com/user-attachments/assets/699752e0-e88d-405d-bdc9-2b4281237a42" />
+<img width="3836" height="2169" alt="gitスクリーンショット (348)" src="https://github.com/user-attachments/assets/cce93701-f3e4-4f95-ae7a-a3ba029c0729" />
+<img width="3836" height="2169" alt="gitスクリーンショット (349)" src="https://github.com/user-attachments/assets/b73517b1-5b1b-4452-ac9b-78a4d15c28da" />
+<img width="3835" height="2169" alt="gitスクリーンショット (350)" src="https://github.com/user-attachments/assets/3252a17a-b00e-4738-939d-3397b804aa00" />
+<img width="3836" height="2169" alt="スクリーンショット (342)7" src="https://github.com/user-attachments/assets/1c162bc7-d128-4668-99d5-3308b72e3c8c" />
+<img width="3836" height="2169" alt="スクリーンショット (343)8" src="https://github.com/user-attachments/assets/ef43d0b3-871c-4026-9992-6ec802c43978" />
+<img width="3835" height="2169" alt="スクリーンショット (344)9" src="https://github.com/user-attachments/assets/be81218c-586a-40d9-8495-6c6379d1b30a" />
 
 ## ボタン機能一覧
 - **Set Plate**: Plate（基準枠）を作成します。
@@ -135,7 +128,7 @@ DPI/スケーリング起因の座標ズレ問題を調査・解決するため�
 ---
 
 ## Pro版（Booth）
-Pro版（有料）の販売ページはこちら：
+Pro版（Supporter Edition）の販売ページはこちら：
 - Booth: https://jellycotton.booth.pm/items/7886153
 
 Pro版ではさらに、AIからJSONで受け取ったレイアウト候補（例: ウィンドウサイズ、ボタンの位置など）を、コードの実装・実行なしで CrossPoint 上に表示できます。
