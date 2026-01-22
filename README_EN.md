@@ -18,7 +18,7 @@ The key is: **the numbers in the JSON are the single source of truth** (do not r
 - Move the Cross to pick a target point
 - Copy the current state as **State JSON** and send it to the AI
 
-## Quick Start (Launch → Copy JSON)
+## Quick Start
 1. Extract the ZIP to any folder
 2. Run `CrossPoint.exe`
 	- On first run, Windows SmartScreen may appear. Click `More info` → `Run anyway`.
