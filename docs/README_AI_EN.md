@@ -194,8 +194,9 @@ Copyright (c) 2026 Jelly
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR IS NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE. USE AT YOUR OWN RISK.
 
 ### Usage Terms
-This software is provided for personal use.
-Redistribution and commercial use are not permitted.
+- Redistribution or resale of the software itself is prohibited.
+- You are free to use this tool in commercial projects (including business use and selling deliverables).
+
 For any other use, please contact the author.
 
 ## Utility Tools for DPI & Debugging
