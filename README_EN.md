@@ -154,6 +154,9 @@ Bluesky: https://bsky.app/profile/jellycotton.bsky.social
 ### License
 Copyright (c) 2026 Jelly
 
+### Disclaimer
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR IS NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE. USE AT YOUR OWN RISK.
+
 ### Usage Terms
 This software is provided for personal use.
 Redistribution and commercial use are not permitted.
