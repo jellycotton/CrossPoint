@@ -125,40 +125,45 @@ Cons: not ideal if you need to represent both main Plate and Sub-Plate together 
 
 ---
 
-## Window Size Implementation Best Practices (Tkinter/High-DPI)
+### 5. Typical Alignment Issues and Troubleshooting (Meaning of 100%) [Developer Guide]
 
-When instructed to "resize the window to match the JSON's `rect`," especially in High-DPI environments (e.g., Windows 150% scaling), adhere to the following rules to avoid pitfalls.
+CrossPoint **State JSON** values are **correct Logical Pixels (DIP)** even if generated at 125% or 150% Windows display scaling.
+Therefore, the AI must NOT manually correct values like `rect.w * 1.5` or `rect.w / 1.5` using `env.ui_scale`. Using the JSON values **as-is** is always appropriate.
 
-### 1. Treat as "Logical Pixels"
-The JSON's `unit: "px"` should be treated as **Logical Pixels** in your implementation code.
-**Do NOT** perform manual calculations to convert to physical pixels (e.g., using `ctypes` to get DPI and dividing). Rely on the OS and Tkinter's built-in scaling to handle the numbers directly.
+If the implementation still results in misalignment, the cause is almost always "the implementation side interpreting the coordinates in a different system". Common examples include:
 
-- **NG**: `width = rect.w / ui_scale` (Do not divide manually)
-- **OK**: `width = rect.w` (Pass the value as-is)
+**Case 1: Mismatched DPI Awareness**
+(Mixing DPI-aware / Unaware / System-aware)
+Even with the same `geometry(1600x900)`, OS-side DPI virtualization (DWM Scaling) may intervene, causing the window to appear huge, shrunk, or offset. **This is not an error in the JSON.**
 
-### 2. Base on "Client Area"
-The `rect` provided by the user typically refers to the "visible content area."
-Implement `geometry(WxH)` as the size of the **Client Area**, not the entire window.
+**Case 2: GUI Library Auto-Scaling**
+(e.g., `CustomTkinter`)
+Some libraries convert `width=100` to `150` internally for drawing, conflicting with the JSON's intent. If necessary, disable Auto-Scaling (fix to 1.0) or use standard Tkinter.
 
-- There is no need to calculate and subtract standard window frame sizes (Non-client area) like title bars.
-- By setting the specified `rect.w` / `rect.h` directly in `geometry`, you ensure the user's expected "content space" is preserved.
+**Case 3: Confusing Client Area with Window Frame**
+Misinterpreting JSON `rect.w / h` as "Window Outer Size" causes offsets equal to the border/title bar size. JSON `rect` should be interpreted as **"Plate (Working Area)"**, and the implementation should match the same target (Client Area).
 
-### 3. Avoid Over-Correction
-**Do NOT implement self-correction loops** (e.g., measuring the window after creation and resizing it again) to verify physical pixel accuracy.
-Scaling discrepancies across environments can cause infinite loops or excessive shrinking. "Simply setting the logical size value" is the safest and most compatible approach.
+**Case 4: Reproducing on different monitors (Mixed DPI)**
+Moving to a monitor with different scaling or DPI may make the coordinates seem incorrect (trying to fix this with manual calculation usually makes it worse).
 
----
+#### The Meaning of 100% (Scale=1.0)
 
-## Window Size Implementation Best Practices (Tkinter/High-DPI)
+**"100%" is NOT a condition for correctness.**
+It is merely a **baseline to simplify troubleshooting**.
 
-When instructed to "resize the window to match the JSON's `rect`," especially in High-DPI environments (e.g., Windows 150% scaling), adhere to the following rules to avoid pitfalls.
+In a 100% environment, the difference between logical and physical pixels is minimized, making comparison and verification simple.
+If you feel "it's misaligned", **temporarily reproducing it at 100% and observing the difference** helps narrow down the cause to "DPI awareness", "Library Auto-Scaling", "Client Area confusion", etc.
 
-### 1. Treat as "Logical Pixels"
-The JSON's `unit: "px"` should be treated as **Logical Pixels** in your implementation code.
-**Do NOT** perform manual calculations to convert to physical pixels (e.g., using `ctypes` to get DPI and dividing). Rely on the OS and Tkinter's built-in scaling to handle the numbers directly.
+> **Important**: State JSON generated at 125% or 150% is also valid logical data.
+> There is **no need to think** "It was made at 150%, so I must divide/multiply by 1.5".
 
-- **NG**: `width = rect.w / ui_scale` (Do not divide manually)
-- **OK**: `width = rect.w` (Pass the value as-is)
+### 3. Safe Implementation Guidelines for High-DPI Environments
+ To ensure reliability, it is recommended to implement the app as **"DPI-Aware (Per-Monitor V2 if possible)"** so it correctly recognizes OS scaling.
+
+*   **Recommended**: DPI-Aware enabled. The OS API maps `1px` to `1 logical pixel` correctly.
+*   **Compromise**: If implementation is too complex, you can disable DPI Awareness (Unaware) and rely on OS bitmap scaling (DWM Scaling), but coordinate definition may become blurry.
+
+In either case, apply the JSON `rect` as **"Logical Pixels"** directly. The AI does not need to manually calculate `rect.w * 1.5` or `rect.w / 1.5`.
 
 ### 2. Base on "Client Area"
 The `rect` provided by the user typically refers to the "visible content area."

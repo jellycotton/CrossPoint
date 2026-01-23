@@ -18,7 +18,7 @@ The key is: **the numbers in the JSON are the single source of truth** (do not r
 - Move the Cross to pick a target point
 - Copy the current state as **State JSON** and send it to the AI
 
-## Quick Start
+## Quick Start Guide
 1. Extract the ZIP to any folder
 2. Run `CrossPoint.exe`
 	- On first run, Windows SmartScreen may appear. Click `More info` → `Run anyway`.
@@ -37,6 +37,11 @@ The key is: **the numbers in the JSON are the single source of truth** (do not r
 <img width="3836" height="2169" alt="スクリーンショット (342)7" src="https://github.com/user-attachments/assets/8dd54063-c55a-4eb9-b5a1-397dd442bbeb" />
 <img width="3836" height="2169" alt="スクリーンショット (343)8" src="https://github.com/user-attachments/assets/c9b74cbc-cb4c-4a1e-9fee-7602ba8f096a" />
 <img width="3835" height="2169" alt="スクリーンショット (344)9" src="https://github.com/user-attachments/assets/0e70466a-553b-48eb-b017-c46617415f0d" />
+
+> **Note: When asking an AI, it is recommended to share the included `docs/README_AI_EN.md` first.**
+> CrossPoint JSON is designed to be used as-is without correction.
+> If this spec is not shared, the AI may perform DPI corrections, causing unintended misalignment.
+
 
 ## Button Quick Reference
 - **Set Plate**: Create the Plate (main rectangle).
@@ -78,6 +83,7 @@ In that case, check both `%APPDATA%\CrossPoint` and `%APPDATA%\CrossPoint Pro`, 
 - If the window seems missing, check the taskbar or use Alt+Tab.
 - If it crashes right after launch, check `err.txt` / `startup.log`.
 - If AI output does not match the intended size/position, check the State JSON `env` (DPI/scaling).
+- Temporarily setting the display scaling to 100% may make **troubleshooting easier**.
 
 ## AI Protocol Doc (Important)
 To prevent AI agents from making “helpful” but incorrect DPI/scale corrections, this ZIP includes an AI-facing protocol/spec:
