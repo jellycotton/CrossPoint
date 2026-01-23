@@ -28,15 +28,12 @@
 	- 操作中はオーバーレイモード（画面が暗転）になります。右クリックまたは `Esc` で解除できます。
 4. **Move Cross** → クリック/ドラッグで Cross を配置
 5.  **Copy State JSON** → JSONをコピーしてAIのチャットに貼り付け
-<img width="3834" height="2169" alt="gitスクリーンショット (345)" src="https://github.com/user-attachments/assets/6e782678-1c21-4246-b2f4-c32c56ccc2ab" />
-<img width="3837" height="2169" alt="gitスクリーンショット (346)" src="https://github.com/user-attachments/assets/eaf7d97e-7090-4a5d-b332-0c8501bbecf5" />
-<img width="3835" height="2169" alt="gitスクリーンショット (347)" src="https://github.com/user-attachments/assets/699752e0-e88d-405d-bdc9-2b4281237a42" />
-<img width="3836" height="2169" alt="gitスクリーンショット (348)" src="https://github.com/user-attachments/assets/cce93701-f3e4-4f95-ae7a-a3ba029c0729" />
-<img width="3836" height="2169" alt="gitスクリーンショット (349)" src="https://github.com/user-attachments/assets/b73517b1-5b1b-4452-ac9b-78a4d15c28da" />
-<img width="3835" height="2169" alt="gitスクリーンショット (350)" src="https://github.com/user-attachments/assets/3252a17a-b00e-4738-939d-3397b804aa00" />
-<img width="3836" height="2169" alt="スクリーンショット (342)7" src="https://github.com/user-attachments/assets/1c162bc7-d128-4668-99d5-3308b72e3c8c" />
-<img width="3836" height="2169" alt="スクリーンショット (343)8" src="https://github.com/user-attachments/assets/ef43d0b3-871c-4026-9992-6ec802c43978" />
-<img width="3835" height="2169" alt="スクリーンショット (344)9" src="https://github.com/user-attachments/assets/be81218c-586a-40d9-8495-6c6379d1b30a" />
+<img width="3836" height="2169" alt="gitsスクリーンショット (352)" src="https://github.com/user-attachments/assets/433df602-6b3b-4bd6-b11e-64c6cb2eaa5e" />
+<img width="3837" height="2169" alt="gitsスクリーンショット (355)" src="https://github.com/user-attachments/assets/e8d9ad4b-6950-4005-86b0-740bac7bbb0e" />
+<img width="3834" height="2169" alt="gitsスクリーンショット (356)" src="https://github.com/user-attachments/assets/6f0049c2-1a88-45ce-ac13-76cc21ded245" />
+<img width="3836" height="2169" alt="gitsスクリーンショット (357)" src="https://github.com/user-attachments/assets/fa2b61d9-45ef-4757-aab0-ef7717ed0a07" />
+<img width="3835" height="2169" alt="gitsスクリーンショット (358)" src="https://github.com/user-attachments/assets/974c11ec-8213-4c97-a471-0b6fd948b0af" />
+
 
 > **※ AIに依頼する場合は、同梱の「docs/README_AI.md」を先に共有することをおすすめします。**
 > CrossPointのJSONは補正せずそのまま使う前提で設計されており、
