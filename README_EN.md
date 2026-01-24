@@ -28,15 +28,13 @@ The key is: **the numbers in the JSON are the single source of truth** (do not r
 	- While editing Plate/Cross, CrossPoint enters **overlay mode** (the screen dims and other apps cannot be interacted with). Right-click or `Esc` to exit.
 4. **Move Cross** → click/drag to place the Cross
 5. **Copy State JSON** → paste it into your AI chat
-<img width="3834" height="2169" alt="gitスクリーンショット (345)" src="https://github.com/user-attachments/assets/715f172e-5066-4b61-befa-bcd2ac4698f3" />
-<img width="3837" height="2169" alt="gitスクリーンショット (346)" src="https://github.com/user-attachments/assets/0831b076-f1b8-46be-8dcb-587be4d65534" />
-<img width="3835" height="2169" alt="gitスクリーンショット (347)" src="https://github.com/user-attachments/assets/bfa5d6ef-9c68-4f8f-9e7f-dbcf15810861" />
-<img width="3836" height="2169" alt="gitスクリーンショット (348)" src="https://github.com/user-attachments/assets/72b81a9c-03d1-489d-bfcb-8062ec8cfd45" />
-<img width="3836" height="2169" alt="gitスクリーンショット (349)" src="https://github.com/user-attachments/assets/fbd7f2a2-1be4-4911-a64d-3e73a92bb5a4" />
-<img width="3835" height="2169" alt="gitスクリーンショット (350)" src="https://github.com/user-attachments/assets/c7e42384-0024-47fe-bf34-30d08b7c07ba" />
-<img width="3836" height="2169" alt="スクリーンショット (342)7" src="https://github.com/user-attachments/assets/8dd54063-c55a-4eb9-b5a1-397dd442bbeb" />
-<img width="3836" height="2169" alt="スクリーンショット (343)8" src="https://github.com/user-attachments/assets/c9b74cbc-cb4c-4a1e-9fee-7602ba8f096a" />
-<img width="3835" height="2169" alt="スクリーンショット (344)9" src="https://github.com/user-attachments/assets/0e70466a-553b-48eb-b017-c46617415f0d" />
+<img width="3835" height="2169" alt="0999スクリーンショット (399)" src="https://github.com/user-attachments/assets/6c056f5d-e0e1-43e1-a041-d641767bc477" />
+<img width="3840" height="2169" alt="888スクリーンショット (400)" src="https://github.com/user-attachments/assets/1d79e587-9ddf-46fa-b4ab-a2d30c33dd0e" />
+<img width="3836" height="2169" alt="888スクリーンショット (401)" src="https://github.com/user-attachments/assets/79c68d62-6ecb-4b06-b5a6-e44fb37ee24e" />
+<img width="3836" height="2169" alt="888スクリーンショット (402)" src="https://github.com/user-attachments/assets/34046f6a-812e-4449-b0a7-b569bf6356a1" />
+<img width="3836" height="2169" alt="888スクリーンショット (403)" src="https://github.com/user-attachments/assets/b6b173ba-97d4-404c-a34b-45e420274498" />
+<img width="3838" height="2169" alt="888スクリーンショット (404)" src="https://github.com/user-attachments/assets/3fb0c574-dadc-4c8b-9195-4397ba239de3" />
+
 
 > **Note: When asking an AI, it is recommended to share the included `docs/README_AI_EN.md` first.**
 > CrossPoint JSON is designed to be used as-is without correction.
