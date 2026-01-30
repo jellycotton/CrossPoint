@@ -145,14 +145,15 @@ Pro版ではさらに、AIからJSONで受け取ったレイアウト候補（�
 
 ※ このGitHub（無料版）には Pro版は同梱されません。
 <img width="3836" height="2169" alt="000スクリーンショット (410)" src="https://github.com/user-attachments/assets/a6feafbd-e629-4762-84e9-89d2e82d2058" />
-Supporter Edition (Pro)では、サブプレートを使用してボタンのサイズを変更しましょう。
+Supporter Edition (Pro)ではダイアログ自体のサイズとさらにサブプレートを使用してボタンのサイズを変更しましょう。
 <img width="3835" height="2169" alt="000スクリーンショット (412)" src="https://github.com/user-attachments/assets/2bc0e0f7-a54e-44b6-b624-1385a9dfce8f" />
 幅はそのままに、高さだけを変えてみます。
 <img width="3835" height="2169" alt="000スクリーンショット (413)" src="https://github.com/user-attachments/assets/7ae79ac0-9858-47e2-a78f-e1a156745baa" />
 青いプレートを調整してダイアログのサイズを変更します。次に、緑のサブプレートを追加して、ボタンの新しいサイズと位置を指定します。
 <img width="3835" height="2169" alt="000スクリーンショット (414)" src="https://github.com/user-attachments/assets/700c3b75-1ff7-4ccf-abec-95cd3c71a130" />
+AIエージェントにCrossPointで抽出したJSONをコピペで渡し「ダイアログのサイズはプレート、ボタンのサイズと位置をサブプレートの数値に合わせて変更して」と指示
 <img width="3835" height="2169" alt="000スクリーンショット (415)" src="https://github.com/user-attachments/assets/c01f7bd4-906a-4f90-b7b0-2dc2dbb7a1e7" />
-
+上手く行きました！
 ---
 
 ## ライセンス / 利用条件
