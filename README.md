@@ -31,11 +31,17 @@
 
 
 <img width="3835" height="2169" alt="0999スクリーンショット (399)" src="https://github.com/user-attachments/assets/4f7c7346-9ec1-4e89-8007-0f22512e1b4c" />
+デモ: AIに指示してボタンを移動させてみます。
 <img width="3840" height="2169" alt="888スクリーンショット (400)" src="https://github.com/user-attachments/assets/ebce791d-8456-4a93-9eb9-19608520d5ab" />
+「Set Plate」を選択してオーバーレイモードに入ります。調整したいダイアログを完全に囲むようにプレート（青い線）を配置します。
 <img width="3836" height="2169" alt="888スクリーンショット (401)" src="https://github.com/user-attachments/assets/463b4eb6-abcc-4314-a0d2-39124f9d7279" />
+「Move Cross」をクリックし、ボタンを配置したい場所にクロス（赤いマーク）を配置します。
 <img width="3836" height="2169" alt="888スクリーンショット (402)" src="https://github.com/user-attachments/assets/2210c006-7d2f-4317-b7c7-54be5fc014dd" />
+パネルの「コピー」ボタンでコピーしたJSONをAIチャットに貼り付けて、リクエストを送信します。(例:「OKボタンをクロスの位置にさせて。」)
 <img width="3836" height="2169" alt="888スクリーンショット (403)" src="https://github.com/user-attachments/assets/5553df0f-63af-47d1-81d1-c3ef907c4a54" />
+すると...
 <img width="3838" height="2169" alt="888スクリーンショット (404)" src="https://github.com/user-attachments/assets/b57ca347-9171-4e11-bc37-53784df08ed3" />
+AIがコードを更新し、ボタンが正確な位置に移動します。
 
 
 > **※ AIに依頼する場合は、同梱の「docs/README_AI.md」を先に共有することをおすすめします。**
