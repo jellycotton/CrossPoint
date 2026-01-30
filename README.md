@@ -44,7 +44,7 @@
 
 <img width="3836" height="2169" alt="888スクリーンショット (402)" src="https://github.com/user-attachments/assets/2210c006-7d2f-4317-b7c7-54be5fc014dd" />
 
-パネルの「コピー」ボタンでコピーしたJSONをAIチャットに貼り付けて、リクエストを送信します。(例:「OKボタンをクロスの位置にさせて。」)
+パネルの「コピー」ボタンでコピーしたJSONをAIチャットに貼り付けて、リクエストを送信します。(例:「OKボタンをクロスの位置に移動して。」)
 
 <img width="3836" height="2169" alt="888スクリーンショット (403)" src="https://github.com/user-attachments/assets/5553df0f-63af-47d1-81d1-c3ef907c4a54" />
 
@@ -176,7 +176,7 @@ Supporter Edition (Pro)ではダイアログ自体のサイズとさらにサブ
 
 <img width="3835" height="2169" alt="000スクリーンショット (414)" src="https://github.com/user-attachments/assets/700c3b75-1ff7-4ccf-abec-95cd3c71a130" />
 
-AIエージェントにCrossPointで抽出したJSONをコピペで渡し「ダイアログのサイズはプレート、ボタンのサイズと位置をサブプレートの数値に合わせて変更して」と指示
+パネルの「コピー」ボタンでコピーしたJSONをAIチャットに貼り付けて、リクエストを送信します。（例:「ダイアログのサイズはプレート、ボタンのサイズと位置をサブプレートの数値に合わせて変更して。」）
 
 <img width="3835" height="2169" alt="000スクリーンショット (415)" src="https://github.com/user-attachments/assets/c01f7bd4-906a-4f90-b7b0-2dc2dbb7a1e7" />
 
