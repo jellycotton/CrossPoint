@@ -143,6 +143,11 @@ Pro版（Supporter Edition）の販売ページはこちら：
 Pro版ではさらに、AIからJSONで受け取ったレイアウト候補（例: ウィンドウサイズ、ボタンの位置など）を、コードの実装・実行なしで CrossPoint 上に表示できます。
 
 ※ このGitHub（無料版）には Pro版は同梱されません。
+<img width="3836" height="2169" alt="000スクリーンショット (410)" src="https://github.com/user-attachments/assets/a6feafbd-e629-4762-84e9-89d2e82d2058" />
+<img width="3835" height="2169" alt="000スクリーンショット (412)" src="https://github.com/user-attachments/assets/dcfd25f1-7c6d-44cb-acd9-f36f98c1ad21" />
+<img width="3835" height="2169" alt="000スクリーンショット (413)" src="https://github.com/user-attachments/assets/7ae79ac0-9858-47e2-a78f-e1a156745baa" />
+<img width="3835" height="2169" alt="000スクリーンショット (414)" src="https://github.com/user-attachments/assets/700c3b75-1ff7-4ccf-abec-95cd3c71a130" />
+<img width="3835" height="2169" alt="000スクリーンショット (415)" src="https://github.com/user-attachments/assets/c01f7bd4-906a-4f90-b7b0-2dc2dbb7a1e7" />
 
 ---
 
