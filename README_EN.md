@@ -157,17 +157,19 @@ Pro can also display layout proposals received from an AI as JSON (e.g., window 
 Note: This GitHub (Free) does not include Pro.
 
 <img width="3836" height="2169" alt="000スクリーンショット (410)" src="https://github.com/user-attachments/assets/bef604c3-b0fb-4bd5-81f6-39c27b6a7e72" />
+
 In the Supporter Edition (Pro), let's resize the button using a Sub-Plate.
 
 <img width="3835" height="2169" alt="000スクリーンショット (412)" src="https://github.com/user-attachments/assets/797adea3-c81e-4ac3-9ef6-a6e91840b8f5" />
+
 We will change the height while keeping the width the same.
 
 <img width="3835" height="2169" alt="000スクリーンショット (413)" src="https://github.com/user-attachments/assets/4ff0456f-5f97-4f2b-b9b7-7e046a99c177" />
+
 Adjust the Blue Plate to resize the dialog. Then, add a Green Sub-Plate to specify the button's new size and position.
 
-<img width="3835" height="2169" alt="000スクリーンショット (414)" src="https://github.com/user-attachments/assets/5a9cfca2-00a9-4bbe-91e0-bb92dc6d9b97" />
-
 <img width="3835" height="2169" alt="000スクリーンショット (415)" src="https://github.com/user-attachments/assets/95e83549-167a-4e14-810f-84fdcecbdad9" />
+
 Sent the request to the AI... and another success!
 
 
