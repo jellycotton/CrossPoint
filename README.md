@@ -31,13 +31,9 @@
 
 
 <img width="3835" height="2169" alt="0999スクリーンショット (399)" src="https://github.com/user-attachments/assets/4f7c7346-9ec1-4e89-8007-0f22512e1b4c" />
-Supporter Edition (Pro)では、サブプレートを使用してボタンのサイズを変更しましょう。
 <img width="3840" height="2169" alt="888スクリーンショット (400)" src="https://github.com/user-attachments/assets/ebce791d-8456-4a93-9eb9-19608520d5ab" />
-幅はそのままに、高さだけを変えてみます。
 <img width="3836" height="2169" alt="888スクリーンショット (401)" src="https://github.com/user-attachments/assets/463b4eb6-abcc-4314-a0d2-39124f9d7279" />
-青いプレートを調整してダイアログのサイズを変更します。次に、緑のサブプレートを追加して、ボタンの新しいサイズと位置を指定します。
 <img width="3836" height="2169" alt="888スクリーンショット (402)" src="https://github.com/user-attachments/assets/2210c006-7d2f-4317-b7c7-54be5fc014dd" />
-
 <img width="3836" height="2169" alt="888スクリーンショット (403)" src="https://github.com/user-attachments/assets/5553df0f-63af-47d1-81d1-c3ef907c4a54" />
 <img width="3838" height="2169" alt="888スクリーンショット (404)" src="https://github.com/user-attachments/assets/b57ca347-9171-4e11-bc37-53784df08ed3" />
 
@@ -149,8 +145,11 @@ Pro版ではさらに、AIからJSONで受け取ったレイアウト候補（�
 
 ※ このGitHub（無料版）には Pro版は同梱されません。
 <img width="3836" height="2169" alt="000スクリーンショット (410)" src="https://github.com/user-attachments/assets/a6feafbd-e629-4762-84e9-89d2e82d2058" />
-<img width="3835" height="2169" alt="000スクリーンショット (412)" src="https://github.com/user-attachments/assets/dcfd25f1-7c6d-44cb-acd9-f36f98c1ad21" />
+Supporter Edition (Pro)では、サブプレートを使用してボタンのサイズを変更しましょう。
+<img width="3835" height="2169" alt="000スクリーンショット (412)" src="https://github.com/user-attachments/assets/2bc0e0f7-a54e-44b6-b624-1385a9dfce8f" />
+幅はそのままに、高さだけを変えてみます。
 <img width="3835" height="2169" alt="000スクリーンショット (413)" src="https://github.com/user-attachments/assets/7ae79ac0-9858-47e2-a78f-e1a156745baa" />
+青いプレートを調整してダイアログのサイズを変更します。次に、緑のサブプレートを追加して、ボタンの新しいサイズと位置を指定します。
 <img width="3835" height="2169" alt="000スクリーンショット (414)" src="https://github.com/user-attachments/assets/700c3b75-1ff7-4ccf-abec-95cd3c71a130" />
 <img width="3835" height="2169" alt="000スクリーンショット (415)" src="https://github.com/user-attachments/assets/c01f7bd4-906a-4f90-b7b0-2dc2dbb7a1e7" />
 
