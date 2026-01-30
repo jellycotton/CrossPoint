@@ -154,9 +154,10 @@ Advanced:
 
 ---
 
-## Pro (Booth)
+## Pro
 Pro (Supporter Edition) is available here:
 - Booth: https://jellycotton.booth.pm/items/7886153
+- Lemon Squeezy: https://dialoguevolts.lemonsqueezy.com/
 
 Pro can also display layout proposals received from an AI as JSON (e.g., window size, button positions) directly in CrossPoint, without implementing or running any code.
 
