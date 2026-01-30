@@ -91,6 +91,9 @@ To prevent AI agents from making “helpful” but incorrect DPI/scale correctio
 
 When you ask an AI to place UI elements using CrossPoint JSON, tell it to follow this protocol (e.g., treat `rect` as logical pixels as-is; prefer `cross.rx/ry`).
 
+## Prior Art
+- [docs/coordinate_snapshot_sharing_protocol.md](docs/coordinate_snapshot_sharing_protocol.md)
+
 ---
 
 ## Useful Peripheral Tools (tools/)
