@@ -29,21 +29,27 @@ The key is: **the numbers in the JSON are the single source of truth** (do not r
 4. **Move Cross** → click/drag to place the Cross
 5. **Copy State JSON** → paste it into your AI chat
 <img width="3835" height="2169" alt="0999スクリーンショット (399)" src="https://github.com/user-attachments/assets/6c056f5d-e0e1-43e1-a041-d641767bc477" />
+
 Demo: Moving this button with the Standard Edition.
 
 <img width="3840" height="2169" alt="888スクリーンショット (400)" src="https://github.com/user-attachments/assets/1d79e587-9ddf-46fa-b4ab-a2d30c33dd0e" />
+
 Select "Set Plate" to enter overlay mode. Place the Plate (blue line) to perfectly enclose the dialog you want to adjust.
 
 <img width="3836" height="2169" alt="888スクリーンショット (401)" src="https://github.com/user-attachments/assets/79c68d62-6ecb-4b06-b5a6-e44fb37ee24e" />
+
 Click "Move Cross", then place the Cross (red mark) where you want to position the button.
 
 <img width="3836" height="2169" alt="888スクリーンショット (402)" src="https://github.com/user-attachments/assets/34046f6a-812e-4449-b0a7-b569bf6356a1" />
+
 Paste the JSON copied via the panel's Copy button into the AI chat and send your request. (e.g., "Move the OK button to the Cross position.")
 
 <img width="3836" height="2169" alt="888スクリーンショット (403)" src="https://github.com/user-attachments/assets/b6b173ba-97d4-404c-a34b-45e420274498" />
+
 Then...
 
 <img width="3838" height="2169" alt="888スクリーンショット (404)" src="https://github.com/user-attachments/assets/3fb0c574-dadc-4c8b-9195-4397ba239de3" />
+
 The AI updates the code, and the button moves to the exact position.
 
 > **Note: When asking an AI, it is recommended to share the included `docs/README_AI_EN.md` first.**
