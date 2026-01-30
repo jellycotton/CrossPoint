@@ -31,6 +31,7 @@
 
 
 <img width="3835" height="2169" alt="0999スクリーンショット (399)" src="https://github.com/user-attachments/assets/4f7c7346-9ec1-4e89-8007-0f22512e1b4c" />
+Supporter Edition (Pro)では、サブプレートを使用してボタンのサイズを変更しましょう。
 <img width="3840" height="2169" alt="888スクリーンショット (400)" src="https://github.com/user-attachments/assets/ebce791d-8456-4a93-9eb9-19608520d5ab" />
 <img width="3836" height="2169" alt="888スクリーンショット (401)" src="https://github.com/user-attachments/assets/463b4eb6-abcc-4314-a0d2-39124f9d7279" />
 <img width="3836" height="2169" alt="888スクリーンショット (402)" src="https://github.com/user-attachments/assets/2210c006-7d2f-4317-b7c7-54be5fc014dd" />
