@@ -89,6 +89,9 @@ AIが勝手にDPI補正などをして座標が狂うのを防ぐため、AIエ�
 
 AIに作業を依頼する際は、必要に応じてこのドキュメントのルール（例: rectは論理pxで補正しない、crossはrx/ry優先）に従うよう明示してください。
 
+## 技術的背景（Prior Art）
+- [docs/coordinate_snapshot_sharing_protocol.md](docs/coordinate_snapshot_sharing_protocol.md)
+
 ---
 
 ## 便利な周辺ツール (tools/)
