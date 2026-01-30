@@ -184,6 +184,8 @@ AIにリクエストを送信すると…成功です！
 ### 開発・著作
 じぇりー (Jelly)
 
+X(Twitter): https://x.com/dialoguevolts
+https://note.com/sane_swift272
 Bluesky: https://bsky.app/profile/jellycotton.bsky.social
 ### ライセンス
 Copyright (c) 2026 Jelly
