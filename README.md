@@ -153,7 +153,7 @@ DPI/スケーリング起因の座標ズレ問題を調査・解決するため�
 
 ---
 
-## Pro版（Booth）
+## Pro版
 Pro版（Supporter Edition）の販売ページはこちら：
 - Booth: https://jellycotton.booth.pm/items/7886153
 - Lemon Squeezy:https://dialoguevolts.lemonsqueezy.com/
