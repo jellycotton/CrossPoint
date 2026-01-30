@@ -156,7 +156,7 @@ DPI/スケーリング起因の座標ズレ問題を調査・解決するため�
 ## Pro版
 Pro版（Supporter Edition）の販売ページはこちら：
 - Booth: https://jellycotton.booth.pm/items/7886153
-- Lemon Squeezy:https://dialoguevolts.lemonsqueezy.com/
+- Lemon Squeezy: https://dialoguevolts.lemonsqueezy.com/
 
 Pro版ではさらに、AIからJSONで受け取ったレイアウト候補（例: ウィンドウサイズ、ボタンの位置など）を、コードの実装・実行なしで CrossPoint 上に表示できます。
 
