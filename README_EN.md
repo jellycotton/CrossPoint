@@ -185,8 +185,11 @@ Sent the request to the AI... and another success!
 ### Development / Copyright
 Jelly
 
-Bluesky: https://bsky.app/profile/jellycotton.bsky.social
+X(Twitter): https://x.com/dialoguevolts
 
+note: https://note.com/sane_swift272
+
+Bluesky: https://bsky.app/profile/jellycotton.bsky.social
 ### License
 Copyright (c) 2026 Jelly
 
