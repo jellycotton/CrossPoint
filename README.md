@@ -174,13 +174,9 @@ Supporter Edition (Pro)ではダイアログ自体のサイズとさらにサブ
 
 青いプレートを調整してダイアログのサイズを変更します。次に、緑のサブプレートを追加して、ボタンの新しいサイズと位置を指定します。
 
-<img width="3835" height="2169" alt="000スクリーンショット (414)" src="https://github.com/user-attachments/assets/700c3b75-1ff7-4ccf-abec-95cd3c71a130" />
-
-AIにリクエストを送信しました。（例:「ダイアログのサイズはプレート、ボタンのサイズと位置をサブプレートの数値に合わせて変更して。」）
-
 <img width="3835" height="2169" alt="000スクリーンショット (415)" src="https://github.com/user-attachments/assets/c01f7bd4-906a-4f90-b7b0-2dc2dbb7a1e7" />
 
-成功です！
+AIにリクエストを送信すると…成功です！
 
 ---
 
