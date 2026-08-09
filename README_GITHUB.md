@@ -3,10 +3,10 @@
 このリポジトリは **CrossPoint 無料版の配布専用** です。**ソースコードは公開していません**。
 
 ## Download
-- [CrossPoint.zip](CrossPoint.zip) をダウンロードして展開し、`CrossPoint.exe` を実行してください。
+- **[最新版をダウンロード (Releases)](https://github.com/jellycotton/CrossPoint/releases/latest)** — `CrossPoint.zip` を展開し、`CrossPoint.exe` を実行してください。
 
 ## Checksums
-- [SHA256SUMS.txt](SHA256SUMS.txt) に [CrossPoint.zip](CrossPoint.zip) のSHA256があります。
+- [SHA256SUMS.txt](SHA256SUMS.txt) に `CrossPoint.zip` の SHA256 があります (Releases 側にも同じものを置いています)。
 
 ## Docs
 - ユーザー向け: [README.md](README.md)（日本語） / [README_EN.md](README_EN.md)（English）
