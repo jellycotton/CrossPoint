@@ -1,5 +1,15 @@
 ﻿# CrossPoint
 
+## ⬇ ダウンロード / Download
+
+**[最新版をダウンロード (CrossPoint.zip)](https://github.com/jellycotton/CrossPoint/releases/latest)** — 無料 / アカウント不要 / Windows 10・11 / インストール作業なし
+
+Download the free edition from the **[Releases page](https://github.com/jellycotton/CrossPoint/releases/latest)** — no account needed, Windows 10/11, no installer.
+
+展開して `CrossPoint.exe` を実行するだけで使えます。Pro 版は [BOOTH](https://jellycotton.booth.pm/items/7886153) / [Lemon Squeezy](https://dialoguevolts.lemonsqueezy.com/) で配布しています。
+
+---
+
 - English version: [README_EN.md](README_EN.md)
 
 **CrossPoint** は、「このへん」「このくらいのサイズ」といった画面領域を **座標スナップショット（JSON）** としてAIと正確に共有するためのツールです。
