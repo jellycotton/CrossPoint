@@ -1,11 +1,18 @@
 ﻿# 利用条件 / License Terms
 
-本ソフトウェアは個人利用を目的として提供されています。
-本ソフトウェアの再配布および商用利用は許可していません。
+Copyright (c) 2026 Jelly
+
+本ソフトウェアは、個人利用・業務利用・商用利用を問わず利用できます。
+ただし、本ソフトウェア自体またはその複製物を、無償・有償を問わず第三者へ再配布または転売することは禁止します。
 その他の利用については作者にお問い合わせください。
+
+本ソフトウェアは「現状のまま（AS IS）」提供され、明示または黙示を問わず、いかなる保証も行いません。
+作者は、本ソフトウェアの使用または使用不能に起因するいかなる損害（請求、損害、その他の責任）についても責任を負いません。
 
 ---
 
-This software is provided for personal use.
-Redistribution and commercial use are not permitted.
+This software may be used for personal, business, and commercial purposes alike.
+However, redistributing or reselling the software itself or copies of it to third parties, whether free of charge or for a fee, is prohibited.
 For any other use, please contact the author.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR IS NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.

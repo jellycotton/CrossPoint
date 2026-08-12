@@ -10,7 +10,7 @@
 
 ## Docs
 - ユーザー向け: [README.md](README.md)（日本語） / [README_EN.md](README_EN.md)（English）
-- AIエージェント向け仕様: [docs/README_AI.md](docs/README_AI.md) / [docs/README_AI_EN.md](docs/README_AI_EN.md)
+- AIエージェント向け仕様: [docs/README_AI.md](docs/README_AI.md)
 
 ## License
 - [LICENSE.txt](LICENSE.txt) を参照してください。

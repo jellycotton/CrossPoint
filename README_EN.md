@@ -52,7 +52,7 @@ Then...
 
 The AI updates the code, and the button moves to the exact position.
 
-> **Note: When asking an AI, it is recommended to share the included `docs/README_AI_EN.md` first.**
+> **Note: When asking an AI, it is recommended to share the included `docs/README_AI.md` first.**
 > CrossPoint JSON is designed to be used as-is without correction.
 > If this spec is not shared, the AI may perform DPI corrections, causing unintended misalignment.
 
@@ -102,8 +102,9 @@ In that case, check both `%APPDATA%\CrossPoint` and `%APPDATA%\CrossPoint Pro`, 
 ## AI Protocol Doc (Important)
 To prevent AI agents from making “helpful” but incorrect DPI/scale corrections, this ZIP includes an AI-facing protocol/spec:
 
-- `README_AI.md` (Japanese)
-- `README_AI_EN.md` (English)
+- `README_AI.md` (Japanese / English)
+
+Note: it is written in both languages, since users may read it as well.
 
 When you ask an AI to place UI elements using CrossPoint JSON, tell it to follow this protocol (e.g., treat `rect` as logical pixels as-is; prefer `cross.rx/ry`).
 
@@ -197,8 +198,8 @@ Copyright (c) 2026 Jelly
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR IS NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE. USE AT YOUR OWN RISK.
 
 ### Usage Terms
-- Redistribution or resale of the software itself is prohibited.
-- You are free to use this tool in commercial projects (including business use and selling deliverables).
+This software may be used for personal, business, and commercial purposes alike.
+However, redistributing or reselling the software itself or copies of it to third parties, whether free of charge or for a fee, is prohibited.
 
 For any other use, please contact the author.
 
